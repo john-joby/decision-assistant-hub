@@ -4,7 +4,7 @@ The **Decision Assistant Hub** is the companion repository to the [Decision Assi
 
 This hub provides **curated examples**, **tutorials**, **tips**, and **video walkthroughs** to help you understand how to work with the assistant and apply it to real-world decision automation scenarios.
 
-
+<br/>
 ## 🎯 Purpose
 
 This repository is for:
@@ -13,7 +13,7 @@ This repository is for:
 - 🎥 Watching guided walkthroughs and demos
 - 💡 Getting tips, prompt ideas, and modeling strategies
 
-
+<br/>
 ## 📁 Repository Structure
 
 | Folder | Description |
@@ -24,11 +24,10 @@ This repository is for:
 | `tutorials/` | Step-by-step usage guides |
 | `CONTRIBUTING.md` | Guidelines for contributing new examples or content |
 
-
+<br/>
 ## 📚 Example Use Cases by Domain
 
 Explore real-world scenarios where decision automation helps formalize and operationalize business logic:
-
 
 ### 👥 HR
 - **[Time Off](examples/hr/time_off_policy/)**  
@@ -50,7 +49,7 @@ Explore real-world scenarios where decision automation helps formalize and opera
 - **[Vendor Risk Scoring](examples/operations/vendor_risk_scoring/)**  
   Model for supplier assessment using weighted risk attributes and thresholds.
 
-
+<br/>
 ## 🚀 Get Started
 
 1. 🔧 Make sure you're set up with the **Decision Assistant**
@@ -69,10 +68,11 @@ Start with one of these tutorials:
 
 --- -->
 
+<br/>
 ## Practical Guide to writing Policies
 - [`Read the tips and tricks`](docs/tips_and_tricks.md)
 
-
+<br/>
 ## ❓ FAQ
 
 **Q:** What formats are supported for policies?  
@@ -88,18 +88,19 @@ Full FAQ: [`docs/faq.md`](docs/faq.md)
 
 --- -->
 
+<br/>
 ## 🤝 Contributing
 
 We welcome contributions!
 
 [`Click Here`](CONTRIBUTING.md) for guidelines.
 
-
+<br/>
 ## 🛡 License
 
 This project is licensed under the **Apache 2.0**.
 
-
+<br/>
 <!-- ## 📬 Contact
 Have a use case to showcase?  
 Open an issue or start a [discussion](https://github.com/your-org/decision-assistant-hub/discussions) — we'd love to hear from you! -->
