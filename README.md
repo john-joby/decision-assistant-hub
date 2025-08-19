@@ -4,7 +4,6 @@ The **Decision Assistant Hub** is the companion repository to the [Decision Assi
 
 This hub provides **curated examples**, **tutorials**, **tips**, and **video walkthroughs** to help you understand how to work with the assistant and apply it to real-world decision automation scenarios.
 
----
 
 ## 🎯 Purpose
 
@@ -14,7 +13,6 @@ This repository is for:
 - 🎥 Watching guided walkthroughs and demos
 - 💡 Getting tips, prompt ideas, and modeling strategies
 
----
 
 ## 📁 Repository Structure
 
@@ -26,7 +24,6 @@ This repository is for:
 | `tutorials/` | Step-by-step usage guides |
 | `CONTRIBUTING.md` | Guidelines for contributing new examples or content |
 
----
 
 ## 📚 Example Use Cases by Domain
 
@@ -52,7 +49,6 @@ Explore real-world scenarios where decision automation helps formalize and opera
 - **[Vendor Risk Scoring](examples/operations/vendor_risk_scoring/)**  
   Model for supplier assessment using weighted risk attributes and thresholds.
 
----
 
 ## 🚀 Get Started
 
@@ -61,7 +57,6 @@ Explore real-world scenarios where decision automation helps formalize and opera
 3. 🧠 Read the `policy.md`, then explore the generated rules (`rules.md`, `.json`, or `.dmn`).
 4. 🎥 Watch demo videos in [`media/videos/`](media/videos/).
 
----
 
 <!-- ## 🧠 Learn by Doing
 
@@ -74,7 +69,6 @@ Start with one of these tutorials:
 
 ## [`💡 Practical Guide to writing Policies`](docs/tips_and_tricks.md)
 
----
 
 ## ❓ FAQ
 
@@ -83,7 +77,6 @@ Start with one of these tutorials:
 
 Full FAQ: [`docs/faq.md`](docs/faq.md)
 
----
 
 <!-- ## 🎥 Media
 
@@ -98,13 +91,11 @@ We welcome contributions!
 
 [`Click Here`](CONTRIBUTING.md) for guidelines.
 
----
 
 ## 🛡 License
 
 This project is licensed under the **Apache 2.0**.
 
----
 
 <!-- ## 📬 Contact
 
