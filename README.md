@@ -1,4 +1,4 @@
-# 🤖 Decision Assistant Hub
+# Decision Assistant Hub
 
 The **Decision Assistant Hub** is the companion repository to the [Decision Assistant](#), an AI-powered assistant that helps users turn business policies into structured decision models like rulesets and DMN diagrams.
 
