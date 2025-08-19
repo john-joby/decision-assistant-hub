@@ -70,6 +70,7 @@ Start with one of these tutorials:
 --- -->
 
 ## [`💡 Practical Guide to writing Policies`](docs/tips_and_tricks.md)
+- [`Read the tips and tricks`](docs/tips_and_tricks.md). 
 
 
 ## ❓ FAQ
