@@ -1,3 +1,11 @@
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+
+<style>
+  body {
+    font-family: "IBM Plex Sans", sans-serif;
+  }
+</style>
+
 # 🤖 Decision Assistant Hub
 
 The **Decision Assistant Hub** is the companion repository to the [Decision Assistant](#), an AI-powered assistant that helps users turn business policies into structured decision models like rulesets and DMN diagrams.
