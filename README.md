@@ -107,7 +107,7 @@ Find answers to frequently asked questions.
 --- -->
 ## Videos
 <video controls width="600">
-  <source src="./videos/personal_loan_approval.08.20.25.mp4" type="video/mp4">
+  <source src="videos/personal_loan_approval.08.20.25.mp4" type="video/mp4">
 </video>
 
 ## Contributing
