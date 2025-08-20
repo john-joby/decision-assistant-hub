@@ -105,6 +105,10 @@ Find answers to frequently asked questions.
 - [From Policy to Rules – Explained](media/videos/from_policy_to_rules.mp4)
 
 --- -->
+## Videos
+<video controls width="600">
+  <source src="./videos/personal_loan_approval.08.20.25.mp4" type="video/mp4">
+</video>
 
 ## Contributing
 
@@ -119,6 +123,7 @@ We welcome contributions!
 This project is licensed under the **Apache 2.0**.
 
 ---
+
 
 <!-- ## Contact
 
