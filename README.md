@@ -40,7 +40,9 @@ Explore real-world scenarios where decision automation helps formalize and opera
 ### Finance
 - **[Expense Approval](examples/finance/expense_approval/)**  
   Multi-level approval rules and threshold-based routing using a decision table.
-
+- **[Personal Loan](examples/finance/personal_loan/)**  
+  Rules to determine Personal Loan Eligibility
+  
 ### Compliance
 - **[Anti-Money Laundering (AML)](examples/compliance/aml_policy/)**  
   Transaction pattern rules and risk classification logic.  
