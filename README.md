@@ -67,8 +67,8 @@ Explore real-world scenarios where decision automation helps formalize and opera
 
 Start with one of these tutorials:
 
-- 📘 [Using the Assistant to Extract Rules](tutorials/01_using_the_assistant.md)
-- 🛠️ [Refining and Editing the Generated Models](tutorials/02_editing_generated_models.md)
+- [Using the Assistant to Extract Rules](tutorials/01_using_the_assistant.md)
+- [Refining and Editing the Generated Models](tutorials/02_editing_generated_models.md)
 
 --- -->
 
@@ -76,7 +76,7 @@ Start with one of these tutorials:
 
 ---
 
-## ❓ FAQ: [`docs/faq.md`](docs/faq.md)
+## FAQ: [`docs/faq.md`](docs/faq.md)
 
 
 <!-- ## Media
