@@ -106,7 +106,7 @@ Find answers to frequently asked questions.
 
 --- -->
 ## Videos
-[Watch the loan approval video](videos/personal_loan_approval.08.20.25.mp4)
+[Watch the loan approval video](https://github.com/DecisionsDev/decision-assistant-hub/raw/refs/heads/main/videos/personal_loan_approval.08.20.25.mp4)
 
 ## Contributing
 
