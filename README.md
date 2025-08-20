@@ -72,11 +72,31 @@ Start with one of these tutorials:
 
 --- -->
 
-## [`Practical Guide to writing Policies`](docs/tips_and_tricks.md)
+---
+
+## Practical Guide to Writing Policies
+
+Learn how to draft effective policies for your organization.
+
+[`Click Here`](docs/policy_guide.md) to read the guide.
 
 ---
 
-## FAQ: [`docs/faq.md`](docs/faq.md)
+## Guide for Fixing Business Action Language (BAL) Syntax Errors
+
+Tips and tricks to resolve common BAL syntax issues.
+
+[`Click Here`](docs/tips_and_tricks.md) for the guide.
+
+---
+
+## FAQ
+
+Find answers to frequently asked questions.
+
+[`Click Here`](docs/faq.md) to explore.
+
+---
 
 
 <!-- ## Media
