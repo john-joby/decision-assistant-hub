@@ -11,8 +11,6 @@ To be considered for a personal loan, an applicant must:
 - Keep their **debt-to-income ratio at or below 40%**.
 - Request a loan that is **no more than 10 times their monthly income**.
 
----
-
 #### **How Decisions Are Made**
 
 If the applicant meets all the conditions above, the application will be reviewed.
@@ -22,5 +20,3 @@ If the applicant meets all the conditions above, the application will be reviewe
 - Applications may be **declined** if the credit score is **below 600**, the debt-to-income ratio is **above 50%**, or the applicant has **not been working for at least 12 months**.
 
 - In other cases, the application may need a **manual review**, especially if income documents are missing or unclear.
-
----
