@@ -67,16 +67,36 @@ Explore real-world scenarios where decision automation helps formalize and opera
 
 Start with one of these tutorials:
 
-- 📘 [Using the Assistant to Extract Rules](tutorials/01_using_the_assistant.md)
-- 🛠️ [Refining and Editing the Generated Models](tutorials/02_editing_generated_models.md)
+- [Using the Assistant to Extract Rules](tutorials/01_using_the_assistant.md)
+- [Refining and Editing the Generated Models](tutorials/02_editing_generated_models.md)
 
 --- -->
 
-## [`Practical Guide to writing Policies`](docs/tips_and_tricks.md)
+---
+
+## Practical Guide to Writing Policies
+
+Learn how to draft effective policies for your organization.
+
+[`Click Here`](docs/policy_guide.md) to read the guide.
 
 ---
 
-## ❓ FAQ: [`docs/faq.md`](docs/faq.md)
+## Guide for Fixing Business Action Language (BAL) Syntax Errors
+
+Tips and tricks to resolve common BAL syntax issues.
+
+[`Click Here`](docs/tips_and_tricks.md) for the guide.
+
+---
+
+## FAQ
+
+Find answers to frequently asked questions.
+
+[`Click Here`](docs/faq.md) to explore.
+
+---
 
 
 <!-- ## Media
