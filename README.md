@@ -109,11 +109,6 @@ Find answers to frequently asked questions.
 
 [Play the demo](pages/videos/personal_loan_approval.08.20.25.mp4)
 
-<video width="600" controls>
-  <source src="pages/videos/personal_loan_approval.08.20.25.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
 ## Contributing
 
 We welcome contributions!
