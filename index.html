@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Decision Assistant Hub</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px auto;
+      max-width: 900px;
+      line-height: 1.6;
+      color: #222;
+      background-color: #f9f9f9;
+      padding: 0 15px;
+    }
+    h1, h2, h3 {
+      font-weight: bold;
+      margin-top: 1.5em;
+      border-bottom: 2px solid #444;
+      padding-bottom: 6px;
+    }
+    hr {
+      margin: 2em 0;
+      border: none;
+      border-bottom: 1px solid #ccc;
+    }
+    a {
+      color: #0066cc;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    code, .code-link {
+      font-family: monospace;
+      background-color: #ddd;
+      padding: 2px 5px;
+      border-radius: 4px;
+      text-decoration: none;
+      color: #0000ee;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 1em;
+    }
+    th, td {
+      border: 1px solid #bbb;
+      padding: 8px 12px;
+      text-align: left;
+    }
+    th {
+      background-color: #eee;
+    }
+    ul {
+      margin-top: 0.2em;
+    }
+    .video-container {
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Decision Assistant Hub</h1>
+  <p>
+    The <strong>Decision Assistant Hub</strong> is the companion repository to the 
+    <a href="https://john-joby.github.io/decision-assistant-hub/#">Decision Assistant</a>, an AI-powered assistant that helps users turn business policies into structured decision models like rulesets and DMN diagrams.
+  </p>
+  <p>
+    This hub provides <strong>curated examples</strong>, <strong>tutorials</strong>, <strong>tips</strong>, and <strong>video walkthroughs</strong> to help you understand how to work with the assistant and apply it to real-world decision automation scenarios.
+  </p>
+
+  <h2>Purpose</h2>
+  <p>This repository is for:</p>
+  <ul>
+    <li>Learning how to convert natural language policies into formalized decision models</li>
+    <li>Exploring domain-specific examples with rule outputs</li>
+    <li>Watching guided walkthroughs and demos</li>
+    <li>Getting tips, prompt ideas, and modeling strategies</li>
+  </ul>
+
+  <hr />
+
+  <h2>Repository Structure</h2>
+  <table>
+    <thead>
+      <tr><th>Folder</th><th>Description</th></tr>
+    </thead>
+    <tbody>
+      <tr><td><code>examples/</code></td><td>Sample business policies and their automated decision models, organized by domain</td></tr>
+      <tr><td><code>docs/</code></td><td>Getting started guides, tips, and FAQs</td></tr>
+      <tr><td><code>media/</code></td><td>Screenshots and video walkthroughs</td></tr>
+      <tr><td><code>tutorials/</code></td><td>Step-by-step usage guides</td></tr>
+      <tr><td><code>CONTRIBUTING.md</code></td><td>Guidelines for contributing new examples or content</td></tr>
+    </tbody>
+  </table>
+
+  <hr />
+
+  <h2>Example Use Cases by Domain</h2>
+
+  <h3>HR</h3>
+  <ul>
+    <li><a href="https://john-joby.github.io/decision-assistant-hub/examples/hr/time_off_policy/">Time Off</a><br />Automate leave types, accruals, eligibility, and carryover logic.</li>
+    <li><a href="https://john-joby.github.io/decision-assistant-hub/examples/hr/performance_bonus_policy/">Performance Bonus</a><br />Rules to determine bonus eligibility based on performance tiers and seniority.</li>
+  </ul>
+
+  <h3>Finance</h3>
+  <ul>
+    <li><a href="https://john-joby.github.io/decision-assistant-hub/examples/finance/expense_approval/">Expense Approval</a><br />Multi-level approval rules and threshold-based routing using a decision table.</li>
+    <li><a href="https://john-joby.github.io/decision-assistant-hub/examples/finance/personal_loan/">Personal Loan</a><br />Rules to determine Personal Loan Eligibility</li>
+  </ul>
+
+  <h3>Compliance</h3>
+  <ul>
+    <li><a href="https://john-joby.github.io/decision-assistant-hub/examples/compliance/aml_policy/">Anti-Money Laundering (AML)</a><br />Transaction pattern rules and risk classification logic.</li>
+    <!-- <li><a href="https://john-joby.github.io/decision-assistant-hub/examples/compliance/kyc_policy/">Know Your Customer (KYC)</a><br />Decision logic for onboarding, document verification, and customer risk scoring.</li> -->
+  </ul>
+
+  <h3>Operations</h3>
+  <ul>
+    <li><a href="https://john-joby.github.io/decision-assistant-hub/examples/operations/vendor_risk_scoring/">Vendor Risk Scoring</a><br />Model for supplier assessment using weighted risk attributes and thresholds.</li>
+  </ul>
+
+  <hr />
+
+  <h2>Get Started</h2>
+  <ol>
+    <li>Make sure you're set up with the <strong>Decision Assistant</strong></li>
+    <li>Browse the <code>examples/</code> folder by domain to find a scenario similar to yours.</li>
+    <li>Read the <code>policy.md</code>, then explore the generated rules (<code>rules.md</code>, <code>.json</code>, or <code>.dmn</code>).</li>
+    <li>Watch demo videos in <a href="https://john-joby.github.io/decision-assistant-hub/media/videos/">media/videos/</a>.</li>
+  </ol>
+
+  <hr />
+
+  <h2>Practical Guide to Writing Policies</h2>
+  <p><a href="https://john-joby.github.io/decision-assistant-hub/docs/policy_guide.md" class="code-link">Click Here</a> to read the guide.</p>
+
+  <h2>Guide for Fixing Business Action Language (BAL) Syntax Errors</h2>
+  <p><a href="https://john-joby.github.io/decision-assistant-hub/docs/tips_and_tricks.md" class="code-link">Click Here</a> for the guide.</p>
+
+  <hr />
+
+  <h2>FAQ</h2>
+  <p>Find answers to frequently asked questions.</p>
+  <p><a href="https://john-joby.github.io/decision-assistant-hub/docs/faq.md" class="code-link">Click Here</a> to explore.</p>
+
+  <hr />
+
+  <h2>Videos</h2>
+  <p><a href="https://john-joby.github.io/decision-assistant-hub/pages/videos/personal_loan_approval.08.20.25.mp4" class="code-link">Play the demo</a></p>
+  <div class="video-container">
+    <video width="600" controls>
+      <source src="pages/videos/personal_loan_approval.08.20.25.mp4" type="video/mp4" />
+      Your browser does not support the video tag.
+    </video>
+  </div>
+
+  <h2>Contributing</h2>
+  <p>We welcome contributions!</p>
+  <p><a href="https://john-joby.github.io/decision-assistant-hub/CONTRIBUTING.md" class="code-link">Click Here</a> for guidelines.</p>
+
+  <hr />
+
+  <h2>License</h2>
+  <p>This project is licensed under the <strong>Apache 2.0</strong>.</p>
+
+</body>
+</html>
